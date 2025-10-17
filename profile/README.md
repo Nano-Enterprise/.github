@@ -3,7 +3,7 @@
 ![Nano Enterprise App Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/e0/db/c5e0db24-0811-fd5e-e701-f52e1fd0091f/AppIcon-0-0-85-220-0-5-0-2x.png/1200x630bb.png)
 
 <div align="center" style="margin:12px 0 18px;">
-  <a href="https://nano-enterprise.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Nano">
     <img src="https://img.shields.io/badge/⬇️_GET_NANO_ENTERPRISE_FOR_MAC-teal?style=for-the-badge&logo=apple&logoColor=white" alt="Get Nano Enterprise for Mac">
   </a>
 </div>
